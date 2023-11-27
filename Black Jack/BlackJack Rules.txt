@@ -1,0 +1,12 @@
+# BlackJack Game: card game also called as 21
+# The goal is to get as close to 21 as possible without going over.
+# If the total goes over 21: called a bust and you lose immediately
+# all cards from 2 to 10: count as face value
+# Jack, Queen, King: count as 10
+# Ace: count as 1 or 11
+
+# Players can either stand or hit.
+# Players can stand if they have a total of 17 or more.
+# Players should hit if they have a total of 16 or less.
+
+
