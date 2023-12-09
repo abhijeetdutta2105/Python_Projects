@@ -1,0 +1,14 @@
+# Absolute File Path: Giving the complete path to the desired location
+# E.g. C:\Users\dutta\PycharmProjects\file handling\my_file.txt
+
+# Relative File Path: When you are in a working directory, you don't need to mention the entire path. You can just
+# mention the file name E.g. .\my_file.txt
+
+# . represents the current working directory and .. represents the parent or the previous directory
+
+# you need to give proper file path else you can get FileNotFoundError
+# in Mac each of the folder in path separated by / but in Windows it is \. So sometimes you can get confused
+
+# so final concept:
+# Absolute File Path is relative to the root of the computer
+# Relative File Path is relative to the current working directory

@@ -1,0 +1,4 @@
+Hello, my name is Abhijeet.
+These days I am loving Python.
+Currently, I am learning File Handling in Python.
+I want to improve the snake game via saving high score in files
